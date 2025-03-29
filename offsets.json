@@ -1,7 +1,7 @@
 {
     "offsets":
     {
-        "uworld": "0x1714D538",
+        "uworld": "0x1771C988",
             "relativelocation" : "0x138",
             "owningworld" : "0xc0",
             "acknowledgedpawn" : "0x350",
@@ -37,7 +37,7 @@
     "weaponoffsets":
     {
     "currentweapon" : "0xa80",
-    "weapondata" : "0x570",
+    "weapondata" : "0x6b8",
     "ammocount" : "0xfa4",
     "itemname" : "0x40",
     "tier" : "0x10c0",
